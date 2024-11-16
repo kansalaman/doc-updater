@@ -1,0 +1,7 @@
+- id: doc-updater
+  name: Update documentation with code changes
+  description: Automatically updates README.md based on staged code changes
+  entry: doc-updater
+  language: python
+  types: [python]
+  pass_filenames: false
